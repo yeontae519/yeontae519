@@ -29,5 +29,8 @@
 
 ### 📊 GitHub Stats
 
-![Yeontae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeontae519&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeontae519&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeontae519&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeontae519&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeontae519&theme=radical" height="165"/>
+</p>
