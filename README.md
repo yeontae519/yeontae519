@@ -13,28 +13,30 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Yeontae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeontae519&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeontae519&layout=compact&theme=radical)
-
----
-
 ### 🛠 사용 스택
 
-**백엔드**
+### 💻 Language  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🧱 Framework  
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/DRF-FF1709?style=flat&logo=Django&logoColor=white"/>
 
-**데이터베이스**
+### 🗃️ Database 
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
-**도구**
+### 🤝 Collaboration Tools  
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+![Discord](https://img.shields.io/badge/Discord-404EED?style=flat&logo=discord&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+![Yeontae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeontae519&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeontae519&layout=compact&theme=radical)
