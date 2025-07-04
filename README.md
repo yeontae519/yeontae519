@@ -13,26 +13,15 @@
 
 ---
 
-### 🛠 사용 스택
-
-### 💻 Language  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 🧱 Framework  
-<br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-FF1709?style=flat&logo=Django&logoColor=white"/>
-
-### 🗃️ Database 
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-
-### 🤝 Collaboration Tools  
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-404EED?style=flat&logo=discord&logoColor=white" alt="Discord" />
+🛠️ Tech Stack
+🧠 Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
+🧱 Frameworks
+<p> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-CC0000?style=for-the-badge&logo=django&logoColor=white"/> </p>
+💾 Databases
+<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+🤝 Collaboration Tools
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </p>
 
 ---
 
