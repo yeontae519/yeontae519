@@ -13,7 +13,20 @@
 
 ---
 
-### 🛠️ 사용 스택
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> 
+### 🛠 사용 스택
+
+**백엔드**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-FF1709?style=flat&logo=Django&logoColor=white"/>
+
+**데이터베이스**
+<br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+
+**도구**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
