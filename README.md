@@ -1,8 +1,15 @@
-### 👋 안녕하세요! 저는 긍정적이며 노력형 백엔드 개발자 김태연입니다!
+<!-- 💤 애니메이션 자기소개 (잠만보 GIF) -->
+<p align="center">
+  <img src="https://github.com/yeontae519/yeontae519/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9" width="300" alt="잠만보 gif"/>
+</p>
 
-🌱 현재 Django & DRF 기반 웹 백엔드 학습 중  
+---
+
+### 👋 안녕하세요! 저는 긍정적이며 노력파 백엔드 개발자 김태연입니다!
+
+🎯 현재 Django & DRF 기반 웹 백엔드 학습 중  
 🚀 관심 분야: 스타트업 SaaS, 실전 협업  
-🎯 목표: 개발 실력 업 + 실전 프로젝트 경험 + 오픈소스 기여
+💡 목표: 개발 실력 업 + 실전 프로젝트 경험 + 오픈소스 기여
 
 ---
 
@@ -30,3 +37,7 @@
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<p align="center">
+  <img src="https://github.com/yeontae519/yeontae519/assets/파일ID/파일이름.gif" width="300" alt="잠만보 gif"/>
+</p>
+![잠만보](https://github.com/user-attachments/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9)
