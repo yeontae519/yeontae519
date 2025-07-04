@@ -12,8 +12,8 @@
 💡 목표: 개발 실력 업 + 실전 프로젝트 경험 + 오픈소스 기여
 
 ---
-
-🛠️ Tech Stack
+<p>
+🛠️ Tech Stack</p>
 🧠 Languages
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
 🧱 Frameworks
