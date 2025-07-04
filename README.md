@@ -1,6 +1,5 @@
-![잠만보](https://github.com/user-attachments/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9)
 <p align="center">
-  <img src="https://github.com/yeontae519/yeontae519/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9" width="300" alt="잠만보 gif"/>
+  ![잠만보](https://github.com/user-attachments/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9)  
 </p>
 
 ---
