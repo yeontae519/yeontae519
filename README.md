@@ -1,5 +1,6 @@
+![잠만보](https://github.com/user-attachments/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9)  
 <p align="center">
-  ![잠만보](https://github.com/user-attachments/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9)  
+
 </p>
 
 ---
