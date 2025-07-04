@@ -1,4 +1,4 @@
-<!-- 💤 애니메이션 자기소개 (잠만보 GIF) -->
+![잠만보](https://github.com/user-attachments/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9)
 <p align="center">
   <img src="https://github.com/yeontae519/yeontae519/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9" width="300" alt="잠만보 gif"/>
 </p>
@@ -37,7 +37,4 @@
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<p align="center">
-  <img src="https://github.com/yeontae519/yeontae519/assets/파일ID/파일이름.gif" width="300" alt="잠만보 gif"/>
-</p>
-![잠만보](https://github.com/user-attachments/assets/a4e7b736-18ce-40ea-8354-9c5e686ce2c9)
+
