@@ -35,5 +35,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeontae519&theme=radical" height="165"/>
 </p>
 
-
-| <a href=https://github.com/CJY9697/><img src="https://avatars.githubusercontent.com/u/199873650?v=4" width=100px/><br/><sub><b>@CJY9697</b></sub></a><br/> | 
