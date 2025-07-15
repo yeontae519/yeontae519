@@ -34,3 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeontae519&layout=compact&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeontae519&theme=radical" height="165"/>
 </p>
+
+
+| <a href="https://github.com/yeontae519"><img src="https://avatars.githubusercontent.com/u/132786882?v=4" width=100px><br><sub><b>@yeontae519</b></sub></a> |
+|:--:|
