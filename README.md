@@ -35,6 +35,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeontae519&theme=radical" height="165"/>
 </p>
 
-| <a href=https://github.com/CJY9697/><img src="https://avatars.githubusercontent.com/u/199873650?v=4" width=100px/><br/><sub><b>@CJY9697</b></sub></a><br/> | <a href=https://github.com/yeontae519><img src="https://avatars.githubusercontent.com/u/201067110?s=400&u=bb9748af261a87d49c9cd231299d58a583beda03&v=4" width=100px/><br/><sub><b>@yeontae519</b></sub></a><br/> | <a href=https://github.com/jjustph121><img src="https://avatars.githubusercontent.com/u/201066875?v=4" width=100px/><br/><sub><b>@jjustph121</b></sub></a><br/> | <a href=https://github.com/enjore1201><img src="https://avatars.githubusercontent.com/u/186259196?v=4" width=100px/><br/><sub><b>@enjore1201</b></sub></a><br/> |
-|:----------------------------------:|:----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|
-|                최재영                 |    김태연     |                                                                            박 현                                                                            |    손건화     | 
